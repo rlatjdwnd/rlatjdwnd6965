@@ -1,3 +1,5 @@
+#ICT공학부 201904192 김성중
+
 import numpy as np
 import pandas as pd
 
